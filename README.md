@@ -1,5 +1,2 @@
-# myleetcodeSolution
-
-#### 介绍
-leetcode题解
+# leetcode题解
 
